@@ -18,15 +18,19 @@ Super Snake will use:
 - Canvas for rendering
 
 Implementation
+
 Day 1:
 - Dedicated to setting up the basics, getting skeleton set up
 - Write basic game logic and setup canvas board
+
 Day 2:
 - Dedicated to rendering, making visual components
 - Design canvas game components, snake/points/powerup designs, have snake move properly
+
 Day 3:
 - Dedicated to game funtionality
 - Implement points functionality/death functionality. Implement ability to pause/play/reset
+
 Day 4:
 - Dedicated to more game functionality/final visual tweaks
 - Implement powerup functionality
