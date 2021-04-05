@@ -1,16 +1,16 @@
-Super Snake
+# Super Snake
 
-Basics
+## Basics
 - Similar in concept to the classic snake game, control a snake to gather points, but with added powerups that buff/debuff the player in various different ways. Players will need to acoid walls and their tail in order to progress.
 
-MVPs
+## MVPs
 - Users control a snake around the board gathering the objectives to gain points
 - Users can pause, resume, and reset the game
 - Users can pickup powerups which immediately give your snake a special effect for a set amount of time
 - Snake has animations when moving/collecting points/powerups
 - Bonus: High score board
 
-Wireframe
+## Wireframe
 ![image](https://user-images.githubusercontent.com/73470658/113586666-c76be900-95fb-11eb-9a7f-0726d19c8c9e.png)
 
 Architecture/Technologies
@@ -19,7 +19,7 @@ Super Snake will use:
 - Canvas for rendering
 - Bonus: database for high score
 
-Implementation
+## Implementation
 
 Day 1:
 - Dedicated to setting up the basics, getting skeleton set up
