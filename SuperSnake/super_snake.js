@@ -5,7 +5,7 @@ function load() {
       gridSize = 20;
       start();
     } else {
-      alert("We're sorry, but your browser does not support the canvas tag. Please use any web browser other than Internet Explorer.");
+      alert("Please use a web browser that supports canvas.");
     }
 }
 
